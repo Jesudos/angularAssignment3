@@ -1,0 +1,57 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Read Angular5 blog",
+      "text": "Shall do at 6",
+      "state": "not-started"
+    },
+    {
+      "id": 2,
+      "title": "Call Ravi",
+      "text": "Track the new submissions",
+      "state": "completed"
+    },
+    {
+      "title": "Capitalism",
+      "text": "Mark Twain",
+      "id": 3,
+      "state": "completed"
+    },
+    {
+      "id": 4,
+      "title": "2134132",
+      "text": "erterttr",
+      "state": "started"
+    },
+    {
+      "title": "Test ",
+      "text": "Test PopUp",
+      "state": "started",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "text": "test",
+      "state": "not-started",
+      "id": 6
+    },
+    {
+      "title": "Ismail 1234123",
+      "text": "Ismail",
+      "state": "completed",
+      "id": 7
+    },
+    {
+      "title": "Test Add",
+      "text": "Test Add",
+      "id": 8
+    },
+    {
+      "title": "FSE",
+      "text": "FSE",
+      "state": "not-started",
+      "id": 9
+    }
+  ]
+}
